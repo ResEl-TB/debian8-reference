@@ -10,9 +10,9 @@ iface lo inet loopback
 # The primary network interface
 # Template pour le VLAN 997
 auto eth0
-iface eth0 inet static
-  address   172.22.2.XXX
-  netmask   255.255.252.0
-  network   172.22.2.0
-  broadcast 172.22.3.255
-  gateway   172.22.2.24
+#iface eth0 inet static
+#  address   172.22.X.XXX
+#  netmask   255.255.252.0
+#  network   172.22.2.0
+#  broadcast 172.22.3.255
+#  gateway   172.22.2.24
