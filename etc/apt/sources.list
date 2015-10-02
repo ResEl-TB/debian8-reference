@@ -1,0 +1,3 @@
+deb http://miroir.maisel.enst-bretagne.fr/debian/ stable main contrib non-free
+deb http://miroir.maisel.enst-bretagne.fr/debian/ jessie-updates main contrib non-free
+deb http://miroir.maisel.enst-bretagne.fr/debian/ jessie-backports main
